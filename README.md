@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center"> I'm Anushka Hiremath</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkahiremath13&label=Profile%20views&color=0e75b6&style=flat" alt="anushkahiremath13" /> </p>
