@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **cpp, c**
+- 💬 Ask me about **cpp, c**,**python**,**SQL**
 
 - 📫 How to reach me **anushkahiremath13@gmail.com**
 
